@@ -1,0 +1,7 @@
+D:\Projects\Visual C#\Console App\dzFirst\dzFirst\bin\Debug\dzFirst.exe.config
+D:\Projects\Visual C#\Console App\dzFirst\dzFirst\bin\Debug\dzFirst.exe
+D:\Projects\Visual C#\Console App\dzFirst\dzFirst\bin\Debug\dzFirst.pdb
+D:\Projects\Visual C#\Console App\dzFirst\dzFirst\obj\Debug\dzFirst.csproj.CoreCompileInputs.cache
+D:\Projects\Visual C#\Console App\dzFirst\dzFirst\obj\Debug\dzFirst.exe
+D:\Projects\Visual C#\Console App\dzFirst\dzFirst\obj\Debug\dzFirst.pdb
+D:\Projects\Visual C#\Console App\dzFirst\dzFirst\obj\Debug\dzFirst.csprojResolveAssemblyReference.cache
